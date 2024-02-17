@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Inter-Activity Communication</string>
+    <string name="enter_length">Enter length</string>
+    <string name="enter_width">Enter width</string>
+    <string name="calculate_area">Calculate Area</string>
+    <string name="data_from_activity_b">Data from ActivityB</string>
+    <string name="go_back_to_activity_a">Go back to ActivityA</string>
+    <string name="length">Length: 0.0</string>
+    <string name="width">Width: 0.0</string>
+    <string name="area_calculated">Area calculated!</string>
+    <string name="area_from_activity_b">Area from ActivityB: %1$s</string>
+    <string name="student_info">Patel Dhruv    Student Number: 1211047</string>
+</resources>
